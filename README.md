@@ -1,3 +1,8 @@
+Forked to build 3.1.0 with working UMD 
+
+Replace with original when [Issue](https://github.com/bvaughn/react-virtualized-select/issues/69) is resolved.
+
+
 # React Virtualized Select
 
 ![NPM version](https://img.shields.io/npm/v/react-virtualized-select.svg?style=flat)
